@@ -3,10 +3,15 @@
 A C++ console application that allows users to browse hotels in different cities and view pricing information. The system loads data from text files and provides an interactive interface for searching and displaying hotel details.
 
 ## Features
+
 ✔ City-Based Hotel Search – Browse available hotels by city.
+
 ✔ Price Information – View detailed pricing for selected hotels.
+
 ✔ Text Database Integration – Loads hotel and price data from .txt files.
+
 ✔ Case-Insensitive Search – Finds hotels regardless of input case.
+
 ✔ Multiple Selection – View details for one or all hotels at once.
 
 ## How It Works
