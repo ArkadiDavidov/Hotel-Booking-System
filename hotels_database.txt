@@ -1,0 +1,147 @@
+#Dubai
+Burj Al Arab Jumeirah
+Atlantis The Palm
+Armani Hotel Dubai
+Jumeirah Al Qasr 
+One&Only The Palm
+Bulgarian Resort Dubai 
+
+#Erevan
+The Alexander Hotel
+Grand Hotel Yerevan
+Armenia Marriott Hotel Yerevan
+Hyatt Place Yerevan
+14th Floor Hotel
+
+#Moscow
+The Ritz-Carlton, Moscow
+Four Seasons Hotel Moscow
+Ararat Park Hyatt
+The St. Regis Moscow Nikolskaya
+Hotel Baltschug Kempinski
+
+#Saint-Peterburg
+Belmond Grand Hotel Europe
+Four Seasons Hotel Lion Palace
+The State Hermitage Museum Official Hotel 
+W St. Petersburg
+Kempinski Hotel Moika 22
+
+#Paris
+The Ritz Paris
+Hôtel de Crillon 
+Four Seasons Hotel George V
+Le Meurice
+Shangri-La Paris
+
+#Milan
+Armani Hotel Milano
+Four Seasons Hotel Milano
+Bulgari Hotel Milano 
+Mandarin Oriental, Milan
+Park Hyatt Milano 
+
+#Lisbon
+Four Seasons Hotel Ritz Lisbon
+Pestana Palace Lisboa
+InterContinental Lisbon
+Tivoli Avenida Liberdade Lisboa
+Bairro Alto Hotel
+
+#Berlin 
+Hotel Adlon Kempinski 
+The Ritz-Carlton, Berlin
+Mandala Hotel 
+Waldorf Astoria Berlin
+Soho House Berlin
+
+#Hamburg
+The Fontenay 
+Fairmont Hotel Vier Jahreszeiten
+Raffles Hamburg
+The Westin Hamburg
+Park Hyatt Hamburg
+
+#Oslo
+The Thief
+Hotel Continental 
+Grand Hotel Oslo
+Sommerro 
+The Brittania
+
+#Kyiv
+Fairmont Grand Hotel Kyiv
+InterContinental Kyiv 
+Hyatt Regency Kyiv
+Hilton Kyiv
+Premier Palace Hotel
+
+#New York
+The Plaza Hotel
+The St. Regis New York 
+Four Seasons Hotel New York Downtown 
+Aman New York 
+The Peninsula New York
+
+#Tokyo
+Conrad Tokyo 
+Ana Intercontinental Tokyo 
+Ascott Marunouchi Tokyo 
+Hotel Chinzanso Tokyo 
+The Capitol Hotel Tokyu 
+
+#Mumbai
+Taj Mahal Palace
+The Oberoi Mumbai
+St. Regis Mumbai
+Four Seasons Mumbai 
+Trident Nariman Point
+
+#Alta
+Altafjord Gjestegaard & Spa
+Bjørnfjell Mountain Lodge
+Gargia Fjellstue
+Scandic Alta
+Sorrisniva Igloo Hotel
+
+#Basel
+Grand Hotel Les Trois Rois
+Hotel Euler
+The Passage
+Nomad Design & Lifestyle Hotel
+Volkshaus Basel
+
+#Novosibirks
+River Park
+MIROTEL.
+Marins Park Hotel Novosibirsk
+Gorskiy city hotel
+BonApart
+
+#Porto
+The Yeatman
+InterContinental Porto - Palácio das Cardosas 
+Pestana Palácio do Freixo
+Torel 1884
+Casa da Companhia
+
+#Rimini 
+Accademia Hotel 
+Up Hotel (ех. Detroit) 
+Rimini Suite Hotel 
+Erbavoglio Hotel 
+Grand Hotel Rimini 
+
+#Tuzla
+Hotel Terme
+Hotel Tuzla
+Hotel Bristol
+Hotel Mellain
+Hotel Senator
+
+#Srtasbourg
+Garrigae Villa la Florangerie
+Pavillon REGENT PETITE France
+Maison Rouge Strasbourg Hotel&Spa, Autograph Collection
+Hôtel & Spa RÉGENT PETITE FRANCE
+Sofitel Strasbourg Grande Ile
